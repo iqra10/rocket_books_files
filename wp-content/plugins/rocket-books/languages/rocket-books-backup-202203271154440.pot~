@@ -1,0 +1,449 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rocket Books Shelf\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-03-27 11:53+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.1; wp-5.8.4\n"
+"X-Domain: rocket-books"
+
+#: admin/class-rocket-books-admin.php:479
+msgid "1.99"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:540
+msgid "A Dropdown"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:510
+#: admin/class-rocket-books-admin.php:525
+msgid "A radio button"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:463
+msgid "Abs Int"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:81
+msgid "Add New Book"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:79
+msgctxt "add new book on admin bar"
+msgid "Book"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:148
+msgid "Add New Genre"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:151
+msgid "Add or remove genre"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:78
+msgctxt "admin menu"
+msgid "Books"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:472
+#: admin/class-rocket-books-admin.php:609
+msgid "Advance Field 1"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:613
+msgid "Advance Field 2"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:438
+msgid "Advance Section"
+msgstr ""
+
+#: includes/widgets/class-rocket-books-widgets-books-list.php:141
+msgid "All"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:89
+msgid "All Books"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:142
+msgid "All Genre"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:452
+msgid "Archive Column"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:474
+#: includes/widgets/class-rocket-books-widgets-books-list.php:143
+msgid "Audio"
+msgstr ""
+
+#: includes/widgets/class-rocket-books-widgets-featured-book.php:56
+msgid "Background Color"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:259
+msgid "Book Details"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:454
+msgid "Book Details from CMB2"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:307
+#: includes/class-rocket-books-post_types.php:469
+msgid "Book Format"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:74
+msgid "Books"
+msgstr ""
+
+#: includes/widgets/class-rocket-books-widgets-books-list.php:27
+msgid "Books List"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:501
+msgid "Checkbox"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:502
+msgid "Checkbox Label"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:152
+msgid "Choose from the most used genre"
+msgstr ""
+
+#: includes/widgets/class-rocket-books-widgets-books-list.php:25
+msgid "Display Rocket Books List"
+msgstr ""
+
+#: includes/widgets/class-rocket-books-widgets-featured-book.php:30
+msgid "Display your Featured Book"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:541
+msgid "Dropdown description"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:82
+msgid "Edit Book"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:145
+msgid "Edit Genre"
+msgstr ""
+
+#. %s: Name of current post
+#: templates/single/content-book.php:39
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: includes/widgets/class-rocket-books-widgets-featured-book.php:29
+msgid "Featured Book"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:582
+msgid "File"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:583
+msgid "File description"
+msgstr ""
+
+#: templates/book-meta.php:14
+#: includes/widgets/class-rocket-books-widgets-books-list.php:150
+msgid "Format"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:236
+#: admin/class-rocket-books-admin.php:457
+msgid "Four Columns"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:432
+msgid "General Section"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:473
+#: includes/widgets/class-rocket-books-widgets-books-list.php:142
+msgid "Hardcover"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:496
+msgid ""
+"HTML area description. You can use any <strong>bold</strong> or other HTML "
+"elements."
+msgstr ""
+
+#. URI of the plugin
+#. Author URI of the plugin
+msgid "https://boilerplate.test"
+msgstr ""
+
+#. Author of the plugin
+msgid "Iqra"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:292
+msgid "is Featured Book?"
+msgstr ""
+
+#: includes/widgets/class-rocket-books-widgets-books-list.php:131
+msgid "Limit:"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:554
+msgid "List of Pages"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:592
+#: admin/class-rocket-books-admin.php:593
+msgid "Media"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:83
+msgid "New Book"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:149
+msgid "New Genre Name"
+msgstr ""
+
+#: templates/single-book.php:39
+msgid "Next"
+msgstr ""
+
+#: templates/single-book.php:40
+msgid "Next post:"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:87
+msgid "No books found in Trash."
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:86
+msgid "No books found."
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:153
+msgid "No genre found."
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:478
+msgid "Number field with validation callback `floatval`"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:477
+msgid "Number Input"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:282
+#: includes/class-rocket-books-post_types.php:461
+msgid "Number of Pages"
+msgstr ""
+
+#: templates/book-meta.php:13
+msgid "Pages"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:553
+msgid "Pages Field Type"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:88
+msgid "Parent Book:"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:143
+msgid "Parent Genre"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:144
+msgid "Parent Genre:"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:575
+msgid "Password"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:576
+msgid "Password description"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:475
+#: includes/widgets/class-rocket-books-widgets-books-list.php:144
+msgid "PDF"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:141
+msgid "Popular Genre"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:76
+msgctxt "post type general name"
+msgid "Books"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:77
+msgctxt "post type singular name"
+msgid "Book"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:80
+msgctxt "post_type"
+msgid "Add New"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:564
+msgid "Posts Field Type"
+msgstr ""
+
+#: templates/single-book.php:42
+msgid "Previous"
+msgstr ""
+
+#: templates/single-book.php:43
+msgid "Previous post:"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:509
+#: admin/class-rocket-books-admin.php:524
+msgid "Radio Button"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:424
+msgid "Rocket Books "
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:423
+msgid "Rocket Books Settings"
+msgstr ""
+
+#. Name of the plugin
+msgid "Rocket Books Shelf"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:85
+msgid "Search Books"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:140
+msgid "Search Genre"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:472
+msgid "Select Format"
+msgstr ""
+
+#: includes/widgets/class-rocket-books-widgets-featured-book.php:61
+msgid "Select Your Favorite Book"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:150
+msgid "Separate genre with commas"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:370
+msgid "Sorry, you do not have access to edit post"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:138
+msgctxt "taxonomy general name"
+msgid "Genre"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:139
+msgctxt "taxonomy singular name"
+msgid "Genre"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:447
+msgid "Test Field"
+msgstr ""
+
+#: includes/widgets/class-rocket-books-widgets-featured-book.php:51
+msgid "Text Color"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:464
+msgid "Text input description"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:465
+msgid "Text Input placeholder"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:490
+msgid "Textarea description"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:489
+msgid "Textarea Input"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:491
+msgid "Textarea placeholder"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:439
+msgid "These are advance settings"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:433
+msgid "These are general settings"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a short description of what the plugin does. It's displayed in the "
+"WordPress admin area."
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:235
+#: admin/class-rocket-books-admin.php:456
+msgid "Three Columns"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:237
+#: admin/class-rocket-books-admin.php:458
+msgid "ThreFivee Columns"
+msgstr ""
+
+#: includes/widgets/class-rocket-books-widgets-featured-book.php:46
+msgid "Title"
+msgstr ""
+
+#: includes/widgets/class-rocket-books-widgets-books-list.php:122
+msgid "Title:"
+msgstr ""
+
+#: admin/class-rocket-books-admin.php:234
+#: admin/class-rocket-books-admin.php:455
+msgid "Two Columns"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:147
+msgid "Update Genre"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:84
+msgid "View Book"
+msgstr ""
+
+#: includes/class-rocket-books-post_types.php:146
+msgid "View Genre"
+msgstr ""
